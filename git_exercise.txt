@@ -1,0 +1,3 @@
+git log --status
+git checkout master
+git commit -m "text"
